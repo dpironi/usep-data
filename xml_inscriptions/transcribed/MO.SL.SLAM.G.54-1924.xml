@@ -50,7 +50,7 @@ changes: correct handling of provenance information -->
                         <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                         <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                            <p>bracalet with opus interrasile inscription</p>
+                            <p>bracelet with opus interrasile inscription</p>
                         </msItem>
                     </msContents>
 
@@ -62,7 +62,7 @@ changes: correct handling of provenance information -->
                         <objectDesc ana="#instrumentum.jewelry">
                             <supportDesc ana="#metal.gold">
                                 <support>
-                                    <p> </p>
+                                    <p>gold bracelet</p>
                                     <dimensions type="surface" unit="cm">
                                         <height>3.4</height>
                                         <dim unit="cm" type="diameter">10</dim>
@@ -178,10 +178,14 @@ changes: correct handling of provenance information -->
                 </div>
             </div>
             <div type="translation">
-            <p>Pretty one, wear [it] in good health</p></div>
+            <p>Pretty one, wear [it] in good health.</p></div>
 
             <div type="commentary">
-            <p>It was originally part of a set and functioned </p></div>
+            <p>Originally part of a set, this bracelet functioned as a betrothal or bridal gift to a
+                    woman of high social standing. In the opus interrasile technique, decorative
+                    patterns are pierced through a thin sheet of metal using small chisels and
+                    punches; it became one of the signature techniques of late antique and early
+                    Byzantine luxury jewelry.</p></div>
             
 
             <div type="bibliography"> <xi:include href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Ep bibliography</p> </xi:fallback> </xi:include> </div>
