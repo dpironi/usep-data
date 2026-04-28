@@ -62,7 +62,7 @@ changes: correct handling of provenance information -->
                         <objectDesc ana="#object_other">
                             <supportDesc ana="#stone.marble">
                                 <support>
-                                    <p> Pentelic marble lekythos</p>
+                                    <p>marble lekythos</p>
                                     <dimensions type="surface" unit="cm">
                                         <height>50</height>
                                         <width/>
@@ -111,7 +111,7 @@ changes: correct handling of provenance information -->
                                 Attica</placeName>
                         </origin>
                         <provenance type="donated">
-                            <p>gift of <persName role="donor>Mrs. Ella Brummer</persName>, <date when="1979">1979</date></p>
+                            <p>gift of <persName role="donor">Mrs. Ella Brummer</persName>, <date when="1979">1979</date></p>
                         </provenance>
 
 
@@ -173,15 +173,15 @@ changes: correct handling of provenance information -->
                 <ab>
                     <lb n="1"/>
                     <persName>
-                        <name type="name" key="Lysistrate">Λυσιστράτη</name>
+                        <name type="name" key="Lysistrate, Λυσιστράτη">Λυσιστράτη</name>
                     </persName>
                     <lb n="2"/>
                     <persName>
-                        <name type="name" key="Kleippe">Κλείππη</name>
+                        <name type="name" key="Kleippe, Κλείππη">Κλείππη</name>
                     </persName>
                     <lb n="3"/>
                     <persName>
-                        <name type="name" key="Timophon">Τιμοφῶν</name>
+                        <name type="name" key="Timophon, Τιμοφῶν">Τιμοφῶν</name>
                     </persName>
                 </ab>
             </div>
@@ -190,14 +190,14 @@ changes: correct handling of provenance information -->
                 <p>Lysistrate. Kleippe. Timophon.</p></div>
 
             <div type="commentary">
-            <p>Three names are inscribed above the heads of the figures, from left to right:
-                    Λυσιστράτη, Κλείππη, Τιμοφῶν (in Lysistrate’s name the first two letters are cut
-                    slightly higher than the rest). Timophon is most plausibly the father and
-                    Kleippe and the infant form a mother-and-child group; Clairmont suggests that
-                    Lysistrate died in childbirth and that Kleippe is the firstborn of Timophon and
-                    Lysistrate. The lekythos is by the same hand as CAT 3.745, with inscriptions cut
-                    by the same letter-cutter; the two monuments belonged to a single family
-                    precinct.</p></div>
+            <p>Pentelic lekythos. Three names are inscribed above the heads of the figures, from
+                    left to right: Λυσιστράτη, Κλείππη, Τιμοφῶν (in Lysistrate’s name the first two
+                    letters are cut slightly higher than the rest). Timophon is most plausibly the
+                    father and Kleippe and the infant form a mother-and-child group: Clairmont
+                    suggests that Lysistrate died in childbirth and that Kleippe is the firstborn of
+                    Timophon and Lysistrate. The lekythos is by the same hand as CAT 3.745, with
+                    inscriptions cut by the same letter-cutter; the two monuments belonged to a
+                    single family precinct.</p></div>
             
 
             <div type="bibliography"> <xi:include href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Ep bibliography</p> </xi:fallback> </xi:include> </div>
