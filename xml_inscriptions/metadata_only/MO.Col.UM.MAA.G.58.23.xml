@@ -63,7 +63,7 @@ changes: correct handling of provenance information -->
                         <objectDesc ana="#sculpture">
                             <supportDesc ana="#clay.terracotta">
                                 <support>
-                                    <p/>
+                                    <p> broken terracotta figurine</p>
                                     <dimensions type="surface" unit="cm">
                                         <height>18.70</height>
                                         <width/>
