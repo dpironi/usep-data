@@ -104,7 +104,7 @@ changes: correct handling of provenance information -->
                         </summary>
 
                         <origin>
-                            <date evidence="#archaeology" notBefore="0400" notAfter="0700"
+                            <date evidence="#palaeography" notBefore="0400" notAfter="0700"
                                 >fifth-seventh century CE</date>
                             <placeName ref="https://pleiades.stoa.org/places/912910">Iraq,
                                 Nippur</placeName>
