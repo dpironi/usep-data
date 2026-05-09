@@ -274,8 +274,7 @@
             <ab>
                <lb n="1"/>
                <persName>
-                  <name key="Heliodora Ἡλιόδωρα">Ἡλιόδωρ<choice>
-                        <corr>α</corr>
+                  <name key="Heliodora Ἡλιόδωρα">Ἡλιόδωρ<choice><corr>α</corr>
                         <sic>λ</sic>
                      </choice>
                   </name>
