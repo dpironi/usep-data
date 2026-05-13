@@ -50,7 +50,7 @@ changes: correct handling of provenance information -->
                         <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                         <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                            <p>terracotta weight of Heracleidas</p>
+                            <p>weight of Heracleidas</p>
                         </msItem>
                     </msContents>
 
@@ -107,7 +107,7 @@ changes: correct handling of provenance information -->
                         <origin>
                             <date evidence="#unspecified" notBefore="-0450" notAfter="-0350">400
                                 BCE</date>
-                            <placeName ref="europe.italy">Sicily</placeName>
+                            <placeName ref="europe.italy.sicily">Italy, Sicily</placeName>
                         </origin>
 
 
@@ -144,6 +144,7 @@ changes: correct handling of provenance information -->
         <revisionDesc>
             <change when="2026-03-14" who="Advaith Rege">Initial Encoding</change>
          <change when="2026-04-01" who="Scott J. DiGiulio">added diacritics to transcription</change>
+            <change when="2026-05-13" who="Davide Pironi">made some tweaks</change>
         </revisionDesc>
 
     </teiHeader>

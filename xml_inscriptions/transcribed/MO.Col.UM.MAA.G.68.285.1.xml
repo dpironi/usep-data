@@ -85,7 +85,7 @@
             <listBibl>
                <bibl>
                   <ptr type="rest-of-bibl" target="#Archaeology_30"/>
-                  <biblScope unit="item">fig. 55</biblScope>
+                  <biblScope unit="item">55</biblScope>
                </bibl>
                <bibl>
                   <ref type="external" target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=68.285.1&amp;d=d">Museum of Art and Archeology - University of Missouri (Web Entry)</ref>
@@ -106,6 +106,8 @@
          <change when="2011-05-13" who="Elli Mylonas">More tweaks for bib only inscriptions</change>
          <change when="2026-03-29" who="Advaith Rege">Initial Encoding</change>
          <change when="2026-04-01" who="Scott J. DiGiulio">added diacritics to the transcription</change>
+         <change when="2026-05-13" who="Davide Pironi">tweaked to resolve bibliography
+            problem</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
