@@ -75,7 +75,7 @@
                <msContents>
                   <textLang mainLang="grc"/>
                   <msItem class="#funerary.epitaph">
-                     <p>epitaph for Heliodora</p>
+                     <p>epitaph of Heliodora</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -252,6 +252,7 @@
                 fixed capitalization issues.</change>
          <change when="2026-03-29" who="Advaith Rege">updated metadata, added image and
             translation</change>
+         <change when="2026-05-13" who="Davide Pironi">aligned summary section</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************
