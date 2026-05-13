@@ -41,7 +41,7 @@
 
                         <!--  *************************************  <objectDesc>  *********************************  -->
                   <objectDesc ana="#instrumentum.other">
-                     <supportDesc ana="#clay">
+                     <supportDesc ana="#clay.other">
                         <support>
                            <p>terra sigillata bowl</p>
                            <dimensions type="surface" unit="cm">
@@ -131,7 +131,7 @@
             <p>Victorinus.</p>
          </div>
          <div type="commentary">
-            <p>Basis of verification: photo</p>
+            <p>Basis of verification: photo.</p>
          </div>
          <div type="apparatus">
             <p/>
