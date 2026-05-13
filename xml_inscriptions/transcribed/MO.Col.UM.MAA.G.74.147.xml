@@ -29,7 +29,7 @@
                <msContents>
                   <textLang mainLang="grc" otherLangs=""/>
                   <msItem class="#dedicatory">
-                     <p>dedication from Eutyches to Hekate</p>
+                     <p>dedication to Hekate</p>
                   </msItem>
                </msContents>
                <physDesc><!--objectDesc, handDesc, decoDesc go here-->
@@ -85,7 +85,7 @@
                </bibl>
                <bibl>
                   <ptr type="rest-of-bibl" target="#SEG_32"/>
-                  <biblScope unit="item">no. 1611</biblScope>
+                  <biblScope unit="item">1611</biblScope>
                </bibl>
                <bibl>
                   <ref type="external" target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=74.147&amp;d=d">Museum of Art and Archeology - University of Missouri (Web Entry)</ref>
@@ -106,6 +106,7 @@
          <change when="2011-05-13" who="Elli Mylonas">More tweaks for bib only inscriptions</change>
          <change when="2026-03-29" who="Advaith Rege">Initial Encoding</change>
          <change when="2026-04-01" who="Scott J. DiGiulio">corrected diacritics in Greek transcription</change>
+         <change when="2026-05-13" who="Davide Pironi">made some tweaks</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
