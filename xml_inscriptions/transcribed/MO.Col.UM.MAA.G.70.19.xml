@@ -33,7 +33,7 @@
                   <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                   <msItem class="#funerary.epitaph">
                             <!-- short summary of the content of an inscription -->
-                     <p>funerary stele for Levitha</p>
+                     <p>funerary stele of Levitha</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -90,7 +90,7 @@
                   </summary>
                   <origin>
                      <date evidence="unspecified" notBefore="0097" notAfter="0098">97-98 CE</date>
-                     <placeName ref="asia.syria">Seleucia</placeName>
+                     <placeName ref="asia.syria.seleucia">Seleucia</placeName>
                   </origin>
                </history>
             </msDesc>
@@ -127,6 +127,7 @@
                 apparatus division, updated link to museum collections page, added support descriptiom</change>
          <change when="2026-03-29" who="Advaith Rege">updated metadata, added image, transcription,
             translation</change>
+         <change when="2026-05-13" who="Davide Pironi">made some tweaks</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
