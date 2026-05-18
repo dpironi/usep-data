@@ -33,34 +33,39 @@
                   <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                   <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                     <p>Inscription on terra sigillata bowl</p>
+                     <p>terra sigillata bowl</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
                <physDesc>
 
                         <!--  *************************************  <objectDesc>  *********************************  -->
-                  <objectDesc ana="#instrumentum.other">
-                     <supportDesc ana="#clay">
+                  <objectDesc ana="#instrumentum.container #instrumentum.other">
+                     <supportDesc ana="#clay.terracotta">
                         <support>
-                           <p> </p>
+                           <p> terra sigillata bowl</p>
                            <dimensions type="surface" unit="cm">
-                              <height/>
-                              <width/>
-                              <depth/>
+                              <height>6.60</height>
+                              <dim unit="cm" type="diameter" subtype="rim">13.70</dim>
+                              <dim unit="cm" type="diameter" subtype="base">5.40</dim>
                            </dimensions>
                         </support>
-                        <condition ana="">
+                        <condition ana="#fragment.single">
                            <p/>
                         </condition>
                      </supportDesc>
                      <!--  *************************************  <layoutDesc>  ********************************* -->
                   </objectDesc>
                   <!--  *************************************  <handDesc>  ********************************* -->
+                  <handDesc hands="1">
+                     <handNote ana="#stamped"> </handNote>
+                  </handDesc>
                   <!--  *************************************  <decoDesc>  *********************************     -->
                   <decoDesc>
                      <decoNote>
-                        <p/>
+                        <p>brownish (?) clay; variegated glaze (black, brown, red). Rather high,
+                           splaying base; uniformly spreading body; rim of same thickness as body.
+                           Groove cut around the rim just inside the top.</p>
                      </decoNote>
                   </decoDesc>
                </physDesc>
@@ -71,7 +76,8 @@
                      <!-- content can be "modern" or "modern-text". A blank value indicates that the inscription is ancient.  -->
                   </summary>
                   <origin>
-                     <placeName ref="europe.italy.rome">Rome, via Appia</placeName>
+                     <placeName ref="europe.italy.rome">Italy, Rome, cemetery of S.
+                        Callisto</placeName>
                   </origin>
                </history>
             </msDesc>
@@ -81,7 +87,9 @@
            
                     </bibl>
                <bibl>
-                  <ref type="external" target="http://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=62.33">Museum of Art and Archeology - University of Missouri (Web Entry)</ref>
+                  <ref type="external"
+                     target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=62.33&amp;d=d"
+                     >MAA Web Entry</ref>
                </bibl>
             </listBibl>
          </sourceDesc>
@@ -100,6 +108,7 @@
       <revisionDesc>
          <change when="2020-04-19" who="Gaia Gianni">Initial Encoding</change>
          <change when="2021-02-24" who="Elli Mylonas">Change instrumentum to instrumentum.other</change>
+         <change when="2026-05-18" who="Davide Pironi">added metadata and transcription</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
@@ -119,7 +128,8 @@
             <p/>
          </div>
          <div type="commentary">
-            <p>Notes here, </p>
+            <p>Stamp on the inside, on the bottom: XIXIXIM.  Stamp on the inside, on the bottom:
+               XIXIXIM. Object metadata and tentative transcription provided by Phoebe Henricks.</p>
          </div>
          <div type="apparatus">
             <p/>
