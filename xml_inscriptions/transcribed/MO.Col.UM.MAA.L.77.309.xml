@@ -124,6 +124,11 @@ changes: correct handling of provenance information -->
                         <ptr type="rest-of-bibl" target="#OCVArret"/>
                         <biblScope unit="item">1168</biblScope>
                     </bibl>
+                    <bibl>
+                        <ref type="external"
+                            target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=77.309&amp;d=d"
+                            >MAA Web Entry</ref>
+                    </bibl>
                 </listBibl>
             </sourceDesc>
         </fileDesc>
