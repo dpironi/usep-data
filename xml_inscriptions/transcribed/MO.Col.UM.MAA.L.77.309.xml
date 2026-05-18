@@ -181,7 +181,7 @@ changes: correct handling of provenance information -->
             <p></p></div>
 
             <div type="commentary">
-            <p>Metadata details (including decoration section) provided by Phoebe Henricks.</p></div>
+            <p>Object metadata provided by Phoebe Henricks.</p></div>
             
 
             <div type="bibliography"> <xi:include href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Ep bibliography</p> </xi:fallback> </xi:include> </div>
