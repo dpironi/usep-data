@@ -33,14 +33,14 @@
                <msContents>
                   <textLang mainLang="lat" otherLangs=""/>
                   <msItem class="#label">
-                     <p>lamp stamp of Sabinus and Popillius</p>
+                     <p>lamp of Sabinus and Popillius</p>
                   </msItem>
                </msContents>
                <physDesc>
                   
                   <!--objectDesc, handDesc, decoDesc go here-->
-                  <objectDesc ana="#instrumentum.other #fragment">
-                     <supportDesc ana="#clay">
+                  <objectDesc ana="#instrumentum.lamp">
+                     <supportDesc ana="#clay.terracotta">
                         <support>
                            <p>fragmentary terracotta lamp</p>
                            <dimensions type="surface" unit="cm">
@@ -65,7 +65,11 @@
                   </handDesc>
                   <decoDesc>
                      <decoNote>
-                        <p>the inscription is set within a tabula ansata</p>
+                        <p>Hard dark buff clay; reddish-brown glaze. Lamp fragment. On upper left
+                           side, remains of a design: rayed circle with two long pendant lines.
+                           Around discus, a framing ring. Narrow band for the rim. Broad nozzle with
+                           triangular termination; volutes at the base encroach upon the rim.
+                           Volutes continue down as thick ribs.</p>
                      </decoNote>
                   </decoDesc>
                </physDesc>
@@ -83,7 +87,9 @@
                   <biblScope unit="item">6244b</biblScope>
                </bibl>
                <bibl>
-                  <ref type="external" target="http://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=71.75">Museum of Art and Archeology - University of Missouri (Web Entry)</ref>
+                  <ref type="external"
+                     target="http://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=71.75"
+                     >MAA Web Entry</ref>
                </bibl>
             </listBibl>
          </sourceDesc>
@@ -101,6 +107,7 @@
          <change when="2011-05-13" who="Elli Mylonas">More tweaks for bib only inscriptions</change>
          <change when="2021-07-29" who="Sophia Papandonatou">added metadata, transcription, translation, and link</change>
          <change when="2026-04-25" who="Davide Pironi">added image</change>
+         <change when="2026-05-18" who="Davide Pironi">Added metadata and credits</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
@@ -131,8 +138,10 @@
          </div>
          <div type="commentary">
             <p>
-               <hi rend="italic">CIL</hi> attests that the lamp was decorated with a scene of a <hi rend="italic">vignator</hi> 
-               between two fighting gladiators—whom the inscription names—but the decorative portion of the lamp has since been lost.</p>
+               <hi rend="italic">CIL</hi> attests that the lamp was decorated with a scene of a <hi
+                  rend="italic">vignator</hi> between two fighting gladiators—whom the inscription
+               names—but the decorative portion of the lamp has since been lost. Inscription placed
+               within a tabula ansata. Decoration details provided by Phoebe Henricks.</p>
          </div>
          <div type="bibliography">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="http://library.brown.edu/usep_data/resources/titles.xml">
