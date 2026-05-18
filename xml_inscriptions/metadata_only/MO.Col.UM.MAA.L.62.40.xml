@@ -33,21 +33,22 @@
                   <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                   <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                     <p>Inscription on a pottery jug</p>
+                     <p>Castor ware jug</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
                <physDesc>
 
                         <!--  *************************************  <objectDesc>  *********************************  -->
-                  <objectDesc ana="#instrumentum.other">
-                     <supportDesc ana="#clay">
+                  <objectDesc ana="#instrumentum.container">
+                     <supportDesc ana="#clay.ceramic">
                         <support>
-                           <p> </p>
+                           <p> ceramic jug</p>
                            <dimensions type="surface" unit="cm">
                               <height>16.5</height>
-                              <width>6.7</width>
+                              <width/>
                               <depth/>
+                              <dim unit="cm" type="diameter">6.70</dim>
                            </dimensions>
                         </support>
                         <condition ana="#complete.intact">
@@ -60,7 +61,13 @@
                   <!--  *************************************  <decoDesc>  *********************************     -->
                   <decoDesc>
                      <decoNote>
-                        <p/>
+                        <p>Wheel made Castor Ware jug; pinkish clay; dull black glaze; details in
+                           white and orange. Narrow base; globular body; conical neck; moulded rim;
+                           raised ridge at junction of neck and body; two lines of rouletting and
+                           one incised groove around the body. Wavy white ridge just above the first
+                           line of rouletting; white dots on the second line of rouletting, and on
+                           the incised groove; wider band of scrolls and bunches of grapes in relief
+                           below the inscription.</p>
                      </decoNote>
                   </decoDesc>
                </physDesc>
@@ -71,7 +78,8 @@
                      <!-- content can be "modern" or "modern-text". A blank value indicates that the inscription is ancient.  -->
                   </summary>
                   <origin>
-                     <date evidence="unspecified" notBefore="0100" notAfter="0399">2nd to 4th century CE</date>
+                     <date evidence="#archaeology" notBefore="0100" notAfter="0399">second to fourth
+                        century CE</date>
                   </origin>
                </history>
             </msDesc>
@@ -82,7 +90,9 @@
 
                     </bibl>
                <bibl>
-                  <ref type="external" target="http://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US">External Reference</ref>
+                  <ref type="external"
+                     target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=62.40&amp;d=d"
+                     >MAA Web Entry</ref>
                </bibl>
             </listBibl>
          </sourceDesc>
@@ -101,6 +111,7 @@
       <revisionDesc>
          <change when="2020-04-19" who="Gaia Gianni">Initial Encoding</change>
          <change when="2021-02-24" who="Elli Mylonas">Change instrumentum to instrumentum.other</change>
+         <change when="2026-05-18" who="Davide Pironi">added metadata and transcription</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
@@ -114,13 +125,14 @@
    <text>
       <body>
          <div type="edition">
-            <ab>Transcription goes here</ab>
+            <ab>DA PIE</ab>
          </div>
          <div type="translation">
             <p/>
          </div>
          <div type="commentary">
-            <p>Notes here, </p>
+            <p>Two lightly incised lines just above the base, painted white (not in relief). Object
+               metadata and tentative transcription provided by Phoebe Henricks.</p>
          </div>
          <div type="apparatus">
             <p/>
