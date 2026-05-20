@@ -28,8 +28,8 @@
                <altIdentifier type="TM_number"><idno>Unknown TM</idno></altIdentifier></msIdentifier>
                <msContents>
                   <textLang mainLang="grc" otherLangs=""/>
-                  <msItem class="#funerary.epitaph">
-                     <p>epitaph of Telestratos</p>
+                  <msItem class="#funerary.other">
+                     <p>ossuary of Telestratos</p>
                   </msItem>
                </msContents>
                <physDesc><!--objectDesc, handDesc, decoDesc go here-->
@@ -108,6 +108,8 @@
          <change when="2026-04-01" who="Scott J. DiGiulio">added diacritics to the transcription</change>
          <change when="2026-05-13" who="Davide Pironi">tweaked to resolve bibliography
             problem</change>
+         <change when="2026-05-20" who="Davide Pironi">changed summary description; added
+            credits</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
@@ -163,7 +165,7 @@
             <p>1. Of Telesistratos of Lusios. 2. Of Telesistratos of Lusios. 3. I finished.</p>
          </div>
          <div type="commentary">
-            <p>Basis of verification: photo.</p>
+            <p>Basis of verification: photo. Decoration details provided by Erica Rose Hampton.</p>
          </div>
          <div type="bibliography">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="http://library.brown.edu/usep_data/resources/titles.xml">
