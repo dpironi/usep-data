@@ -40,7 +40,7 @@
                <physDesc>
 
                         <!--  *************************************  <objectDesc>  *********************************  -->
-                  <objectDesc ana="#instrumentum.container #instrumentum.other">
+                  <objectDesc ana="#instrumentum.container">
                      <supportDesc ana="#clay.terracotta">
                         <support>
                            <p> terra sigillata bowl</p>
