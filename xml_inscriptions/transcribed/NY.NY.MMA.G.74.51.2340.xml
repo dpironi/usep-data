@@ -46,8 +46,8 @@ changes: correct handling of provenance information
                <physDesc>
                         
                         <!--  *************************************  <objectDesc>  *********************************  -->
-                  <objectDesc ana="#instrumentum.container.other #clay-product">
-                     <supportDesc ana="#clay">
+                  <objectDesc ana="#instrumentum.container">
+                     <supportDesc ana="#clay.other">
                         <support>
                            <p>clay bowl</p>
                            <dimensions type="surface" unit="cm">
@@ -122,6 +122,7 @@ changes: correct handling of provenance information
       <revisionDesc>
          <change when="2021-05-05" who="Itamar Levin">Transcription , translation, and metadata</change>
          <change when="2026-03-19" who="Davide Pironi">tweaks to origin</change>
+         <change when="2026-05-20" who="Davide Pironi">fixed physical description</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
