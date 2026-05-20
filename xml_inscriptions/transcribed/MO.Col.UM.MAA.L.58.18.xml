@@ -33,7 +33,7 @@
                   <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                   <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                     <p>stamp of Victorinus</p>
+                     <p>terra sigillata bowl</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -103,6 +103,7 @@
          <change when="2021-07-06" who="Sophia Papandonatou">updated metadata and link</change>
          <change when="2026-03-29" who="Advaith Rege">updated metadata and transcription, added
             image</change>
+         <change when="2026-05-20" who="Davide Pironi">changed summary description</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
