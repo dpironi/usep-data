@@ -187,7 +187,7 @@ changes: correct handling of provenance information -->
             <p></p></div>
 
             <div type="commentary">
-            <p>Decoration description provided by Erica Hampton.</p></div>
+            <p>Decoration details provided by Erica Rose Hampton.</p></div>
             
 
             <div type="bibliography"> <xi:include href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Ep bibliography</p> </xi:fallback> </xi:include> </div>
