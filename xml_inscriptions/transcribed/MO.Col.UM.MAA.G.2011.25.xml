@@ -75,7 +75,7 @@
                <msContents>
                   <textLang mainLang="grc"/>
                   <msItem class="#funerary.epitaph">
-                     <p>epitaph of Heliodora</p>
+                     <p>funerary stele of Heliodora</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -289,7 +289,7 @@
             <p>Heliodora, astrologer, chaste, irreproachable, virgin, brother-loving, about 52 years (old), be of good courage.</p>
          </div>
          <div type="commentary">
-            <p>Basis of verification: photo</p>
+            <p>Basis of verification: photo. Decoration details provided by Phoebe Henricks.</p>
          </div>
          <div type="bibliography">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="http://library.brown.edu/usep_data/resources/titles.xml">
