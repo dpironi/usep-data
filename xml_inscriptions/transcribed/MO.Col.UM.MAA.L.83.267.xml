@@ -32,13 +32,13 @@
                <altIdentifier type="TM_number"><idno>Unknown TM</idno></altIdentifier></msIdentifier>
                <msContents>
                   <textLang mainLang="lat" otherLangs=""/>
-                  <msItem>
+                  <msItem class="#label">
                      <p>brickstamp of Claudius Maximus</p>
                   </msItem>
                </msContents>
                <physDesc><!--objectDesc, handDesc, decoDesc go here-->
-                  <objectDesc ana="#clay-product #instrumentum.other">
-                     <supportDesc ana="#clay">
+                  <objectDesc ana="#instrumentum.brick">
+                     <supportDesc ana="#clay.terracotta">
                         <support>
                            <p>terracotta brick</p>
                            <dimensions type="surface" unit="cm">
@@ -100,6 +100,7 @@
       <revisionDesc>
          <change when="2010-09-29" who="Center for Digital Scholarship">Converted to September 2009 EpiDoc</change>
          <change when="2011-05-13" who="Elli Mylonas">More tweaks for bib only inscriptions</change>
+         <change when="2026-05-20" who="Davide">Fixed object categories</change>
       </revisionDesc>
    </teiHeader>
    <!--facsimile element goes here-->
