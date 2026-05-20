@@ -107,6 +107,7 @@
          <change when="2026-03-29" who="Advaith Rege">Initial Encoding</change>
          <change when="2026-04-01" who="Scott J. DiGiulio">added diacritics to transcription and added ligature markup</change>
          <change when="2026-04-08" who="Davide Pironi">tweaked external reference section</change>
+         <change when="2026-05-20" who="Davide Pironi">added credits</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
@@ -135,7 +136,10 @@
             <p>To the mother, a prayer. Menios, son of Menios.</p>
          </div>
          <div type="commentary">
-            <p>The stele was originally much taller and was apparently cut down to its present size for reuse as a building block. Letters at the beginning of the second line are larger. Basis of verification: photo.</p>
+            <p>The stele was originally much taller and was apparently cut down to its present size
+               for reuse as a building block. Letters at the beginning of the second line are
+               larger. Basis of verification: photo. Decoration details provided by Erica Rose
+               Hampton.</p>
          </div>
          <div type="bibliography">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="http://library.brown.edu/usep_data/resources/titles.xml">
