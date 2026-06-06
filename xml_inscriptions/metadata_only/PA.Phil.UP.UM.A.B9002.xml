@@ -69,7 +69,7 @@ changes: correct handling of provenance information -->
                                         <depth/>
                                     </dimensions>
                                 </support>
-                                <condition ana="#fragment.single">
+                                <condition ana="#fragments.contig">
                                     <p>9 pieces glued together</p>
                                 </condition>
                             </supportDesc>
@@ -106,10 +106,10 @@ changes: correct handling of provenance information -->
                         <origin>
                             <date evidence="#palaeography" notBefore="0400" notAfter="0700"
                                 >fifth-seventh century CE</date>
-                            <placeName ref="https://pleiades.stoa.org/places/893951">Iraq,
+                            <placeName ref="asia.iraq.babylon https://pleiades.stoa.org/places/893951">Iraq,
                                 Babylon</placeName>
                         </origin>
-                        <provenance type="discovered">
+                        <provenance type="found" subtype="discovered">
                             <p>Said to have come from
                                 <placeName ref="https://pleiades.stoa.org/places/893951">Babylon</placeName>,
                                 acquired during Babylonian Expedition I-IV,
