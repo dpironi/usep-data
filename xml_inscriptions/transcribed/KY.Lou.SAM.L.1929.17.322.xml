@@ -125,8 +125,8 @@
            <lb n="2"/>
                <persName>
                   <name type="praenomen" key="Caius">
-                     <expan><abbr>C</abbr></expan>
-                     <ex>aius</ex>
+                     <expan><abbr>C</abbr><ex>aius</ex></expan>
+                     
                   </name>
                   <name type="gentilicium" key="Aufidius">Aufidius</name>
                   <expan><abbr>C</abbr><ex>ai</ex></expan>
