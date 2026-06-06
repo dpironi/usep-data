@@ -90,7 +90,7 @@
                   </summary>
                   <origin>
                      <date evidence="unspecified" notBefore="0097" notAfter="0098">97-98 CE</date>
-                     <placeName ref="asia.syria.seleucia">Seleucia</placeName>
+                     <placeName ref="asia.syria.seleucia https://pleiades.stoa.org/places/658483">Seleucia</placeName>
                   </origin>
                </history>
             </msDesc>
@@ -151,7 +151,7 @@
                   <persName>
                      <name key="Levitha Λέουιθα">Λέουιθα</name>
                   </persName> χρηστή ἄλυ
-               <lb n="2" break="no"/>πε χέρε. Ἔτους ΗΥ.</ab>
+               <lb n="2" break="no"/>πε χέρε. Ἔτους <num type="cardinal" value="408">ΗΥ</num>.</ab>
          </div>
          <div type="translation">
             <p>Levitha, worthy, free from pain, farewell. Year 408</p>
