@@ -36,7 +36,7 @@
                <msContents>
                   <textLang mainLang="grc"/>
                   <msItem class="#label">
-                     <p/>
+                     <p>seal for Eucharist wafer featuring Philip the Apostle</p>
                   </msItem>
                </msContents>
                <physDesc>
@@ -89,7 +89,7 @@ Should contain information about origin of inscription including place and date.
                      <placeName ref="europe">unknown</placeName>
                   </origin>
                   <provenance type="transferred" subtype="given">
-                     <p>The <persName>Adolph D.</persName> and <persName>Wilkins C. Williams</persName> Fund</p>
+                     <p>The <persName role="funder">Adolph D.</persName> and <persName role="funder">Wilkins C. Williams</persName> Fund</p>
                   </provenance>
                   <!--
 Add provenance element(s) to locations at later dates - same content as origin
@@ -117,6 +117,7 @@ Add provenance element(s) to locations at later dates - same content as origin
       <revisionDesc>
          <change when="2020-05-19" who="Scott J. DiGiulio">Added missing revisionDesc; fixed provenance markup</change>
          <change when="2026-03-18" who="Davide Pironi">tweaks to origin</change>
+         <change when="2026-06-6" who="Scott J. DiGiulio">corrected transcription to reflect interpretive, added comments on later-Greek features of second line (portion surrounding the seal)</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -133,8 +134,8 @@ URL will actually only have the file name, which is the machine readable USEP nu
       <body>
          <div type="edition">
             <ab>
-               <lb n="1"/>+ΟΑΓΙΟC ΦΙΛΙΠΠΟC
-                    <lb n="2"/>+ΑΓΙΟC ΑΓΙΟC ΑΓΙΟC ΚΥΡ[backward rho]ΙΟC CΑΒ(Bbackward beta)ΑωΘ ΠΛΗΡΙC ω ΟΥΡΑΝΟC ΚΕ Η ΓΙ ΤΗC ΑΓΙΑC CΟΥ ΔωΞC
+               <lb n="1"/><g type="cross"/> ὁ ἄγιος Φίλιππος.
+                    <lb n="2"/><g type="cross"/>Ἄγιος ἄγιος ἄγιος Κύ<hi rend="reverse">ρ</hi>ιος σα<hi rend="reverse">β</hi>αωθ, πλήρις <choice><corr>ὁ</corr><sic>ὠ</sic><choice> οὐρανός κε ἡ γὶ τῆς ἀγίας σου δώξις.
                 </ab>
             <!--
 The marked up transcription goes here, surrounded by <ab> </ab> elements
@@ -144,7 +145,7 @@ The marked up transcription goes here, surrounded by <ab> </ab> elements
             <p/>
          </div>
          <div type="commentary">
-            <p>Line 1: Obverse; Line 2: Reverse. All alphas are broken bar and rhos and betas reversed.</p>
+            <p>Line 1: Obverse; Line 2: Reverse. All alphas are broken bar and rhos and betas reversed. Several words show iotacism (e.g. πλήρις for Classical πλήρης, δώξις for δόξης) and lengthening of omicron to omega.</p>
          </div>
          <div type="bibliography">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="http://library.brown.edu/usep_data/resources/titles.xml">
