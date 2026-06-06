@@ -102,6 +102,7 @@ Add provenance element(s) to locations at later dates - same content as origin
                   <biblScope unit="item">pp.270-273, no.94</biblScope>
                </bibl>
                <bibl>
+                  <ref type="external" target="https://www.vmfa.museum/artworks/seal-for-eucharistic-wafer-59696">Richmond MFA Web Entry</ref>
                     </bibl>
             </listBibl>
          </sourceDesc>
