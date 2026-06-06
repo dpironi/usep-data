@@ -216,14 +216,14 @@
                   </persName>
                   <expan><abbr>f</abbr><ex>iliae</ex></expan>
                   <name type="cognomen" key="Lucilla">
-                     <expan><abbr>Lucil<ex>lae</ex></abbr></expan>
+                     <expan><abbr>Lucil</abbr><ex>lae</ex></expan>
                   </name>
                </persName>,
             <lb n="2"/>
                <persName>
-                  <name type="cognomen" key="Paetinus">Pae</name>
-                  <ex>tino</ex>
-               </persName>
+                <name type="cognomen" key="Paetinus"><expan><abbr>Pae</abbr>
+                  <ex>tino</ex></expan>
+               </name></persName>
                <hi rend="ligature">et</hi>
                <persName>
                   <name type="cognomen" key="Apronianus">
