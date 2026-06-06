@@ -108,7 +108,7 @@ changes: correct handling of provenance information -->
                             <placeName ref="unknown"/>
                         </origin>
                         <provenance type="observed" subtype="recorded">
-                            <p>Recorded in the <orgName role="recipient">Bennett Museum</orgName> by <date when="1915">1915</date>.</p>
+                            <p>Recorded in the <orgName role="owner">Bennett Museum</orgName> by <date when="1915">1915</date>.</p>
                         </provenance>
 
                     </history>
@@ -165,11 +165,11 @@ changes: correct handling of provenance information -->
                 <lb n="1"/><expan><abbr>R</abbr><ex>equiescat</ex></expan> <expan><abbr>i</abbr><ex>n</ex></expan> <expan><abbr>p</abbr><ex>ace</ex></expan> <expan><abbr>a</abbr><ex>nimae</ex></expan>
                     <persName>
                         <name key="Usaunnias">Usau<choice><corr>n</corr><sic>ii</sic></choice>
-                <lb n="2" break="no"/>nias</name></persName> qui vi<choice><corr>xit</corr><sic>n</sic></choice> <num value="3">III</num>
+                <lb n="2" break="no"/>nias</name></persName> qui vi<choice><corr>xit</corr><sic>n</sic></choice> <num value="3" type="cardinal">III</num>
                 <lb n="3"/><expan><abbr>k</abbr><ex>a</ex><abbr>l</abbr><ex>endas</ex></expan> <choice><reg>Augusti</reg><orig>Augustis</orig></choice>
-                <lb n="4"/><g type="taurho"/> <choice><reg>dies</reg><orig>die</orig></choice> <choice><reg>lunae</reg><orig>lunis</orig></choice>
-                <lb n="5"/><choice><reg>Chris<g type="taurho"/>tus</reg><orig>Cris<g type="taurho"/>tus</orig></choice>
-                <lb n="6"/><expan><abbr>S</abbr><ex>alvator</ex></expan>
+                <lb n="4"/><g type="tau-rho"/> <choice><reg>dies</reg><orig>die</orig></choice> <choice><reg>lunae</reg><orig>lunis</orig></choice>.
+                <lb n="5"/><choice><reg>Chris<g type="tau-rho"/>tus</reg><orig>Cris<g type="tau-rho"/>tus</orig></choice>
+                <lb n="6"/><expan><abbr>S</abbr><ex>alvator</ex></expan>.
             </ab></div>
             
             <div type="translation">
