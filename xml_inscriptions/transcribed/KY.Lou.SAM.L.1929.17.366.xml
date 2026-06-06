@@ -122,8 +122,8 @@
                         <expan><abbr>L</abbr><ex>ucius</ex></expan>
                      </name>
                      <name type="gentilicium" key="Cornelius">
-                        <expan><abbr>Coneli</abbr></expan>
-                        <ex>us</ex>
+                        <expan><abbr>Coneli</abbr><ex>us</ex></expan>
+                        
                      </name>
                      <lb n="2"/>
                      <name type="cognomen" key="Apollonides">Apollonides</name>
