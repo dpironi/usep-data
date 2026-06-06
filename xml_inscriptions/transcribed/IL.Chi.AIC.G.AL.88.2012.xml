@@ -107,22 +107,22 @@ changes: correct handling of provenance information -->
                         <origin>
                             <date evidence="#archaeology" notBefore="-0350" notAfter="-0325">third
                                 quarter of the fourth century BCE</date>
-                            <placeName ref="https://pleiades.stoa.org/places/579885">Greece, Attica,
+                            <placeName ref="europe.greece.athens https://pleiades.stoa.org/places/579885">Greece, Attica,
                                 Athens</placeName>
                         </origin>
-                        <provenance type="found">
-                            <p>found on the property of Michael Melas in <placeName ref="https://pleiades.stoa.org/places/579885">Athens</placeName>, <date notBefore="1877-06-27" notAfter="1877-06-27">June 27, 1877</date></p>
+                        <provenance type="found" subtype="discovered">
+                            <p>found on the property of <persName role="owner">Michael Melas</persName> in <placeName ref="https://pleiades.stoa.org/places/579885">Athens</placeName>, <date notBefore="1877-06-27" notAfter="1877-06-27">June 27, 1877</date></p>
                         </provenance>
-                        <provenance type="acquired">
-                            <p>auctioned from an English private collection at Sotheby's London,
+                        <provenance type="transferred" subtype="sold">
+                            <p>auctioned from an English private collection at <orgName role="auctioner">Sotheby's London</orgName>,
                                     <date notBefore="1964-10-19" notAfter="1964-10-19">October 19,
-                                    1964</date>, lot 167 (illustrated), sold to Spink &amp; Son,
-                                Ltd., London</p>
+                                    1964</date>, lot 167 (illustrated), sold to <orgName role="buyer">Spink &amp; Son,
+                                Ltd.</orgName>, <placeName>London</placeName></p>
                         </provenance>
-                        <provenance type="loaned">
-                            <p>on loan to and exhibited at the Metropolitan Museum of
-                                    Art, New
-                                    York, <date notBefore="1964"
+                        <provenance type="transferred" subtype="loaned">
+                            <p>on loan to and exhibited at the <orgName role="borrower">Metropolitan Museum of
+                                    Art</orgName>, <placeName>New
+                                    York<placeName>, <date notBefore="1964"
                                     notAfter="2011">1964–2011</date></p>
                         </provenance>
 
@@ -182,9 +182,9 @@ changes: correct handling of provenance information -->
         <body>
             <div type="edition">
                 <ab>
-                    <lb n="1"/><name key="Onatoridas, Ὀνατορίδας"><supplied reason="lost"
+                    <lb n="1"/><name key="Onatoridas Ὀνατορίδας"><supplied reason="lost"
                             >Ὀνα</supplied>τορίδας</name>
-                    <name type="ethnic" key="Boiotios, Βοιώτιος">Βοιώτιος</name>.
+                    <name type="ethnic" key="Boiotios Βοιώτιος">Βοιώτιος</name>.
                 </ab>
             </div>
             
