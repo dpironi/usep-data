@@ -169,8 +169,8 @@
                <lb n="1"/>
                <persName>
                   <name type="praenomen" key="Quintus">
-                     <expan><abbr>Q</abbr></expan>
-                     <ex cert="low">uintus</ex>
+                     <expan><abbr>Q</abbr><ex cert="low">uintus</ex></expan>
+                     
                   </name>
                   <expan><abbr>S</abbr></expan>
                   <expan><abbr>P</abbr></expan>
