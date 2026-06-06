@@ -33,7 +33,7 @@
                   <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                   <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                     <p>stamp of Amabilis</p>
+                     <p>terra sigillata bowl</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -90,7 +90,9 @@
             <!--  *************************************  <listBibl>  *********************************  -->
             <listBibl>
                <bibl>
-                  <ref type="external" target="http://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=59.6+terra+sigillata+bowl">Museum of Art and Archeology - University of Missouri (Web Entry)</ref>
+                  <ref type="external"
+                     target="http://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=59.6+terra+sigillata+bowl"
+                     >MAA Web Entry</ref>
                </bibl>
             </listBibl>
          </sourceDesc>
@@ -111,6 +113,7 @@
          <change when="2021-02-24" who="Elli Mylonas">Change instrumentum to instrumentum.other</change>
          <change when="2021-07-06" who="Sophia Papandonatou">updated metadata and link</change>
          <change when="2026-03-14" who="Advaith Rege">updated metadata and image</change>
+         <change when="2026-05-20" who="Davide Pironi">tweaks to the summary description</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->

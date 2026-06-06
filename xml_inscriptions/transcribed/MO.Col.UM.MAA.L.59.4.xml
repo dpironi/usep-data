@@ -33,7 +33,7 @@
                   <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                   <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                     <p>stamp of Verecundus</p>
+                     <p>ware plate of Verecundus</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -110,6 +110,8 @@
          <change when="2021-02-24" who="Elli Mylonas">Change instrumentum to instrumentum.other</change>
          <change when="2021-07-06" who="Sophia Papandonatou">updated metadata and link, added commentary</change>
          <change when="2026-03-14" who="Advaith Rege">updated metadata and image</change>
+         <change when="2026-05-20" who="Davide Pironi">tweaks to summary description; added
+            credits</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
@@ -134,7 +136,7 @@
             <p>Verecundus</p>
          </div>
          <div type="commentary">
-            <p>Basis of verification: photo</p>
+            <p>Basis of verification: photo. Decoration details provided by Phoebe Henricks.</p>
          </div>
          <div type="bibliography">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="http://library.brown.edu/usep_data/resources/titles.xml">

@@ -17,8 +17,8 @@ changes: correct handling of provenance information -->
         <fileDesc>
             
             <titleStmt>
-                <title>MO.Col.UM.MAA.G.69.3</title>
-                <author>Advaith Rege</author>
+                <title>IL.Chi.AIC.G.AL.88.2012</title>
+                <author>Davide Pironi</author>
                 <respStmt>
                     <resp>Translation</resp>
                     <name>Translator</name>
@@ -30,27 +30,27 @@ changes: correct handling of provenance information -->
             </titleStmt>
             <publicationStmt>
                 <authority>Brown University</authority>
-                <idno type="USEpigraphy" xml:id="MO.Col.UM.MAA.G.69.3">MO.Col.UM.MAA.G.69.3</idno>
+                <idno type="USEpigraphy" xml:id="IL.Chi.AIC.G.AL.88.2012">IL.Chi.AIC.G.AL.88.2012</idno>
             </publicationStmt>
 
             <sourceDesc>
                 <!--  *************************************  <msDesc>  ********************************* -->
                 <msDesc>
                     <msIdentifier>
-                        <region>MO</region>
-                        <settlement>Col</settlement>
-                        <institution>UM</institution>
-                        <repository>MAA</repository>
-                        <idno>69.3</idno>
+                        <region>IL</region>
+                        <settlement>Chi</settlement>
+                        <institution>AIC</institution>
+                        <repository>AL</repository>
+                        <idno>88.2012</idno>
                     </msIdentifier>
 
                     <!--  *************************************  <msContents>  *********************************    -->
                     <msContents>
                         <textLang mainLang="grc" otherLangs=""/>
                         <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
-                        <msItem class="#label">
+                        <msItem class="#funerary.epitaph">
                             <!-- short summary of the content of an inscription -->
-                            <p>weight of Heracleidas</p>
+                            <p>funerary stele of Onatoridas</p>
                         </msItem>
                     </msContents>
 
@@ -59,15 +59,14 @@ changes: correct handling of provenance information -->
 
                         <!--  *************************************  <objectDesc>  *********************************  -->
 
-                        <objectDesc ana="#instrumentum.other">
-                            <supportDesc ana="#clay.terracotta">
+                        <objectDesc ana="#stele">
+                            <supportDesc ana="#stone.marble">
                                 <support>
-                                    <p> terracotta weight</p>
+                                    <p> marble stele</p>
                                     <dimensions type="surface" unit="cm">
-                                        <height>7.2</height>
-                                        <width/>
+                                        <height>97,8</height>
+                                        <width>40</width>
                                         <depth/>
-                                        <dim type="diameter">4.7</dim>
                                     </dimensions>
                                 </support>
                                 <condition ana="#complete.intact">
@@ -76,7 +75,7 @@ changes: correct handling of provenance information -->
                             </supportDesc>
                             <!--  *************************************  <layoutDesc>  ********************************* -->
                             <layoutDesc>
-                                <layout columns="1" writtenLines="1">
+                                <layout columns="0" writtenLines="1">
                                     <p/>
                                 </layout>
                             </layoutDesc>
@@ -91,7 +90,8 @@ changes: correct handling of provenance information -->
                         <!--  *************************************  <decoDesc>  *********************************     -->
                         <decoDesc>
                             <decoNote>
-                                <p>upper part of the cone is impressed with seven impressions of one seal depicting a nude youth, frontal, his body in contraposto, his head in profile to his left, holding a wreath in his right hand, a strigil (?) in his left hand; one of the impressions is double-struck</p>
+                                <p>Carved in high relief. Onatoridas in standing position with his
+                                    dog. His wavy hair surmounted by a stephane. </p>
                             </decoNote>
                         </decoDesc>
                     </physDesc>
@@ -105,10 +105,26 @@ changes: correct handling of provenance information -->
                         </summary>
 
                         <origin>
-                            <date evidence="#unspecified" notBefore="-0450" notAfter="-0350">400
-                                BCE</date>
-                            <placeName ref="europe.italy.sicily">Italy, Sicily</placeName>
+                            <date evidence="#archaeology" notBefore="-0350" notAfter="-0325">third
+                                quarter of the fourth century BCE</date>
+                            <placeName ref="europe.greece.athens https://pleiades.stoa.org/places/579885">Greece, Attica,
+                                Athens</placeName>
                         </origin>
+                        <provenance type="found" subtype="discovered">
+                            <p>found on the property of <persName role="owner">Michael Melas</persName> in <placeName ref="https://pleiades.stoa.org/places/579885">Athens</placeName>, <date notBefore="1877-06-27" notAfter="1877-06-27">June 27, 1877</date></p>
+                        </provenance>
+                        <provenance type="transferred" subtype="sold">
+                            <p>auctioned from an English private collection at <orgName role="auctioner">Sotheby's London</orgName>,
+                                    <date notBefore="1964-10-19" notAfter="1964-10-19">October 19,
+                                    1964</date>, lot 167 (illustrated), sold to <orgName role="buyer">Spink &amp; Son,
+                                Ltd.</orgName>, <placeName>London</placeName></p>
+                        </provenance>
+                        <provenance type="transferred" subtype="loaned">
+                            <p>on loan to and exhibited at the <orgName role="borrower">Metropolitan Museum of
+                                    Art</orgName>, <placeName>New
+                                    York<placeName>, <date notBefore="1964"
+                                    notAfter="2011">1964–2011</date></p>
+                        </provenance>
 
 
                     </history>
@@ -116,7 +132,12 @@ changes: correct handling of provenance information -->
                 <!--  *************************************  <listBibl>  *********************************  -->
                 <listBibl>
                     <bibl>
-                        <ref type="external" target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=Cone-Shaped+Weight+with+Impressions+and+Inscriptions&amp;d=d">MAA web entry</ref>
+                        <ptr type="rest-of-bibl" target="#CAT_0"/>
+                        <biblScope unit="item">849</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ptr type="rest-of-bibl" target="#IG_II2"/>
+                        <biblScope unit="item">8420</biblScope>
                     </bibl>
                 </listBibl>
             </sourceDesc>
@@ -142,10 +163,7 @@ changes: correct handling of provenance information -->
     	<!-- Record all changes here -->
 
         <revisionDesc>
-            <change when="2026-03-14" who="Advaith Rege">Initial Encoding</change>
-         <change when="2026-04-01" who="Scott J. DiGiulio">added diacritics to transcription</change>
-            <change when="2026-05-13" who="Davide Pironi">made some tweaks</change>
-            <change when="2026-05-20" who="Davide Pironi">added credits</change>
+            <change when="2026-05-04" who="Davide Pironi">Initial Encoding</change>
         </revisionDesc>
 
     </teiHeader>
@@ -156,33 +174,25 @@ changes: correct handling of provenance information -->
     <facsimile>
         <surface>
             <desc/>
-            <graphic url="MO.Col.UM.MAA.G.69.3-01.jpg"/>
-        </surface>
-        <surface>
-            <desc/>
-            <graphic url="MO.Col.UM.MAA.G.69.3-02.jpg"/>
-        </surface>
-        <surface>
-            <desc/>
-            <graphic url="MO.Col.UM.MAA.G.69.3-03.jpg"/>
+            <graphic url="IL.Chi.AIC.G.AL.88.2012.jpg"/>
         </surface>
     </facsimile>
 
     <text>
         <body>
             <div type="edition">
-            <ab>
-                <lb n="1"/>
-                <persName>
-                    <name key="Heracleidas Ἡρακλείδας">Ἡρακλείδας</name>
-                </persName> Γελοίο.
-            </ab></div>
+                <ab>
+                    <lb n="1"/><name key="Onatoridas Ὀνατορίδας"><supplied reason="lost"
+                            >Ὀνα</supplied>τορίδας</name>
+                    <name type="ethnic" key="Boiotios Βοιώτιος">Βοιώτιος</name>.
+                </ab>
+            </div>
             
             <div type="translation">
-            <p>Heracleidas of Gelos.</p></div>
+            <p>Onatoridas the Boeotian.</p></div>
 
             <div type="commentary">
-            <p>Basis of verification: photo. Decoration details provided by Erica Rose Hampton.</p></div>
+            <p></p></div>
             
 
             <div type="bibliography"> <xi:include href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Ep bibliography</p> </xi:fallback> </xi:include> </div>

@@ -28,8 +28,8 @@
                <altIdentifier type="TM_number"><idno>Unknown TM</idno></altIdentifier></msIdentifier>
                <msContents>
                   <textLang mainLang="grc" otherLangs=""/>
-                  <msItem class="#funerary.epitaph">
-                     <p>epitaph of Telestratos</p>
+                  <msItem class="#funerary.other">
+                     <p>ossuary of Telestratos</p>
                   </msItem>
                </msContents>
                <physDesc><!--objectDesc, handDesc, decoDesc go here-->
@@ -85,7 +85,7 @@
             <listBibl>
                <bibl>
                   <ptr type="rest-of-bibl" target="#Archaeology_30"/>
-                  <biblScope unit="item">fig. 55</biblScope>
+                  <biblScope unit="item">55</biblScope>
                </bibl>
                <bibl>
                   <ref type="external" target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=68.285.1&amp;d=d">Museum of Art and Archeology - University of Missouri (Web Entry)</ref>
@@ -106,6 +106,10 @@
          <change when="2011-05-13" who="Elli Mylonas">More tweaks for bib only inscriptions</change>
          <change when="2026-03-29" who="Advaith Rege">Initial Encoding</change>
          <change when="2026-04-01" who="Scott J. DiGiulio">added diacritics to the transcription</change>
+         <change when="2026-05-13" who="Davide Pironi">tweaked to resolve bibliography
+            problem</change>
+         <change when="2026-05-20" who="Davide Pironi">changed summary description; added
+            credits</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
@@ -161,7 +165,7 @@
             <p>1. Of Telesistratos of Lusios. 2. Of Telesistratos of Lusios. 3. I finished.</p>
          </div>
          <div type="commentary">
-            <p>Basis of verification: photo.</p>
+            <p>Basis of verification: photo. Decoration details provided by Erica Rose Hampton.</p>
          </div>
          <div type="bibliography">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="http://library.brown.edu/usep_data/resources/titles.xml">

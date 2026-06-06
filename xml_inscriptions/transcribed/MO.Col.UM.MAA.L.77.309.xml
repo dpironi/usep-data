@@ -17,8 +17,8 @@ changes: correct handling of provenance information -->
         <fileDesc>
             
             <titleStmt>
-                <title>MO.Col.UM.MAA.G.69.3</title>
-                <author>Advaith Rege</author>
+                <title>MO.Col.UM.MAA.L.77.309</title>
+                <author>Davide Pironi</author>
                 <respStmt>
                     <resp>Translation</resp>
                     <name>Translator</name>
@@ -30,7 +30,7 @@ changes: correct handling of provenance information -->
             </titleStmt>
             <publicationStmt>
                 <authority>Brown University</authority>
-                <idno type="USEpigraphy" xml:id="MO.Col.UM.MAA.G.69.3">MO.Col.UM.MAA.G.69.3</idno>
+                <idno type="USEpigraphy" xml:id="MO.Col.UM.MAA.L.77.309">MO.Col.UM.MAA.L.77.309</idno>
             </publicationStmt>
 
             <sourceDesc>
@@ -41,16 +41,16 @@ changes: correct handling of provenance information -->
                         <settlement>Col</settlement>
                         <institution>UM</institution>
                         <repository>MAA</repository>
-                        <idno>69.3</idno>
+                        <idno>77.309</idno>
                     </msIdentifier>
 
                     <!--  *************************************  <msContents>  *********************************    -->
                     <msContents>
-                        <textLang mainLang="grc" otherLangs=""/>
+                        <textLang mainLang="lat" otherLangs=""/>
                         <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                         <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                            <p>weight of Heracleidas</p>
+                            <p>terra sigillata vase</p>
                         </msItem>
                     </msContents>
 
@@ -59,24 +59,24 @@ changes: correct handling of provenance information -->
 
                         <!--  *************************************  <objectDesc>  *********************************  -->
 
-                        <objectDesc ana="#instrumentum.other">
+                        <objectDesc ana="#instrumentum.vase">
                             <supportDesc ana="#clay.terracotta">
                                 <support>
-                                    <p> terracotta weight</p>
+                                    <p>fragmentary terra sigillata vase</p>
                                     <dimensions type="surface" unit="cm">
-                                        <height>7.2</height>
+                                        <height/>
                                         <width/>
                                         <depth/>
-                                        <dim type="diameter">4.7</dim>
+                                        <dim unit="cm" type="diameter">3.30</dim>
                                     </dimensions>
                                 </support>
-                                <condition ana="#complete.intact">
+                                <condition ana="#fragment.single">
                                     <p/>
                                 </condition>
                             </supportDesc>
                             <!--  *************************************  <layoutDesc>  ********************************* -->
                             <layoutDesc>
-                                <layout columns="1" writtenLines="1">
+                                <layout columns="0" writtenLines="2">
                                     <p/>
                                 </layout>
                             </layoutDesc>
@@ -85,13 +85,15 @@ changes: correct handling of provenance information -->
                         <!--  *************************************  <handDesc>  ********************************* -->
 
                         <handDesc hands="1">
-                            <handNote ana="#inscribed"> </handNote>
+                            <handNote ana="#stamped"> </handNote>
                         </handDesc>
 
                         <!--  *************************************  <decoDesc>  *********************************     -->
                         <decoDesc>
                             <decoNote>
-                                <p>upper part of the cone is impressed with seven impressions of one seal depicting a nude youth, frontal, his body in contraposto, his head in profile to his left, holding a wreath in his right hand, a strigil (?) in his left hand; one of the impressions is double-struck</p>
+                                <p>Fine pink clay; good orange glaze. Sigillata plate. Wheel made
+                                    circles remain on the base, with a slightly raised center;
+                                    groove around the center on the inner floor.</p>
                             </decoNote>
                         </decoDesc>
                     </physDesc>
@@ -105,10 +107,13 @@ changes: correct handling of provenance information -->
                         </summary>
 
                         <origin>
-                            <date evidence="#unspecified" notBefore="-0450" notAfter="-0350">400
-                                BCE</date>
-                            <placeName ref="europe.italy.sicily">Italy, Sicily</placeName>
+                            <date evidence="#archaeology" notBefore="0001" notAfter="0101">first
+                                century CE</date>
+                            <placeName ref="unknown">unknown</placeName>
                         </origin>
+                        <provenance type="transferred" subtype="donated">
+                            <p>Gift of <persName role="donor">Dr. and Mrs. Saul S. Weinberg</persName></p>
+                        </provenance>
 
 
                     </history>
@@ -116,7 +121,13 @@ changes: correct handling of provenance information -->
                 <!--  *************************************  <listBibl>  *********************************  -->
                 <listBibl>
                     <bibl>
-                        <ref type="external" target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=Cone-Shaped+Weight+with+Impressions+and+Inscriptions&amp;d=d">MAA web entry</ref>
+                        <ptr type="rest-of-bibl" target="#OCVArret"/>
+                        <biblScope unit="item">1168</biblScope>
+                    </bibl>
+                    <bibl>
+                        <ref type="external"
+                            target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=77.309&amp;d=d"
+                            >MAA Web Entry</ref>
                     </bibl>
                 </listBibl>
             </sourceDesc>
@@ -142,10 +153,7 @@ changes: correct handling of provenance information -->
     	<!-- Record all changes here -->
 
         <revisionDesc>
-            <change when="2026-03-14" who="Advaith Rege">Initial Encoding</change>
-         <change when="2026-04-01" who="Scott J. DiGiulio">added diacritics to transcription</change>
-            <change when="2026-05-13" who="Davide Pironi">made some tweaks</change>
-            <change when="2026-05-20" who="Davide Pironi">added credits</change>
+            <change when="2026-05-18" who="Davide Pironi">Initial Encoding</change>
         </revisionDesc>
 
     </teiHeader>
@@ -156,33 +164,24 @@ changes: correct handling of provenance information -->
     <facsimile>
         <surface>
             <desc/>
-            <graphic url="MO.Col.UM.MAA.G.69.3-01.jpg"/>
-        </surface>
-        <surface>
-            <desc/>
-            <graphic url="MO.Col.UM.MAA.G.69.3-02.jpg"/>
-        </surface>
-        <surface>
-            <desc/>
-            <graphic url="MO.Col.UM.MAA.G.69.3-03.jpg"/>
+            <graphic url=""/>
         </surface>
     </facsimile>
 
     <text>
         <body>
             <div type="edition">
-            <ab>
-                <lb n="1"/>
-                <persName>
-                    <name key="Heracleidas Ἡρακλείδας">Ἡρακλείδας</name>
-                </persName> Γελοίο.
-            </ab></div>
+                <ab>
+                    <lb n="1"/><abbr>Olym</abbr>
+                    <lb n="2"/><abbr>Publ</abbr>
+                </ab>
+            </div>
             
             <div type="translation">
-            <p>Heracleidas of Gelos.</p></div>
+            <p></p></div>
 
             <div type="commentary">
-            <p>Basis of verification: photo. Decoration details provided by Erica Rose Hampton.</p></div>
+            <p>Decoration details provided by Phoebe Henricks.</p></div>
             
 
             <div type="bibliography"> <xi:include href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Ep bibliography</p> </xi:fallback> </xi:include> </div>

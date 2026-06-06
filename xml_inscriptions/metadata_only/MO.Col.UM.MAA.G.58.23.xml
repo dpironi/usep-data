@@ -51,7 +51,7 @@ changes: correct handling of provenance information -->
                         <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                         <msItem class="#dedicatory">
                             <!-- short summary of the content of an inscription -->
-                            <p> Roman inscribed figurine of Aphrodite</p>
+                            <p>figurine of Aphrodite</p>
                         </msItem>
                     </msContents>
 
@@ -63,7 +63,7 @@ changes: correct handling of provenance information -->
                         <objectDesc ana="#sculpture">
                             <supportDesc ana="#clay.terracotta">
                                 <support>
-                                    <p/>
+                                    <p> broken terracotta figurine</p>
                                     <dimensions type="surface" unit="cm">
                                         <height>18.70</height>
                                         <width/>
@@ -91,7 +91,19 @@ changes: correct handling of provenance information -->
                         <!--  *************************************  <decoDesc>  *********************************     -->
                         <decoDesc>
                             <decoNote>
-                                <p/>
+                                <p>Reddish buff clay; micaceous; slipped; the interior hollow, with a circular vent
+                                    hole in the middle of the back. She stands on a base, facing
+                                    front, her weight on her straight right leg, her left leg bent
+                                    at the knee. Most of her back is covered by drapery, with
+                                    lightly incised lines used to indicate folds; her left arm, and
+                                    the front of her body, are uncovered. Her right arm is bent at
+                                    the elbow, with her hand up by her shoulder, holding a bunch of
+                                    drapery; her left arm is held straight down, with her hand
+                                    resting on a column down on her left side, around which is
+                                    wrapped a swathe of her drapery. Her head is tilted slightly
+                                    upward and to the right. On her right side, among the fold of
+                                    her drapery, is a dolphin with its head pointing down. Drapery
+                                    is painted in pink, hair is painted in red.</p>
                             </decoNote>
                         </decoDesc>
                     </physDesc>
@@ -117,7 +129,12 @@ changes: correct handling of provenance information -->
                 <listBibl>
                     <bibl>
                         <ptr type="rest-of-bibl" target="#unpublished"/>
-                        <biblScope unit="page">00</biblScope>
+                        <biblScope unit="page"/>
+                    </bibl>
+                    <bibl>
+                        <ref type="external"
+                            target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US"
+                            >MAA Web Reference</ref>
                     </bibl>
                 </listBibl>
             </sourceDesc>
@@ -144,6 +161,9 @@ changes: correct handling of provenance information -->
 
         <revisionDesc>
             <change when="2026-04-25" who="Davide Pironi">Initial Encoding</change>
+            <change when="2026-05-13" who="Davide Pironi">added external reference</change>
+            <change when="2026-05-18" who="Davide Pironi">decoration description: added
+                credits</change>
         </revisionDesc>
 
     </teiHeader>
@@ -167,7 +187,7 @@ changes: correct handling of provenance information -->
             <p></p></div>
 
             <div type="commentary">
-            <p></p></div>
+            <p>Decoration details provided by Erica Rose Hampton.</p></div>
             
 
             <div type="bibliography"> <xi:include href="http://library.brown.edu/usep_data/resources/titles.xml"> <xi:fallback> <p>US Ep bibliography</p> </xi:fallback> </xi:include> </div>

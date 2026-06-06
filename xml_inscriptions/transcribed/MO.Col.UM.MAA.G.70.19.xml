@@ -33,7 +33,7 @@
                   <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                   <msItem class="#funerary.epitaph">
                             <!-- short summary of the content of an inscription -->
-                     <p>funerary stele for Levitha</p>
+                     <p>funerary stele of Levitha</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -90,7 +90,7 @@
                   </summary>
                   <origin>
                      <date evidence="unspecified" notBefore="0097" notAfter="0098">97-98 CE</date>
-                     <placeName ref="asia.syria">Seleucia</placeName>
+                     <placeName ref="asia.syria.seleucia https://pleiades.stoa.org/places/658483">Seleucia</placeName>
                   </origin>
                </history>
             </msDesc>
@@ -103,6 +103,10 @@
                <bibl>
                   <ref type="external" target="http://maacollections.missouri.edu/ArgusNET/Portal/Portal.aspx?lang=en-US&amp;g_AAEM=Levitha">External
                             Reference Missouri Museum</ref>
+               </bibl>
+               <bibl>
+                  <ptr type="rest-of-bibl" target="#xx"/>
+                  <biblScope type="item">reference here</biblScope>
                </bibl>
             </listBibl>
          </sourceDesc>
@@ -127,6 +131,8 @@
                 apparatus division, updated link to museum collections page, added support descriptiom</change>
          <change when="2026-03-29" who="Advaith Rege">updated metadata, added image, transcription,
             translation</change>
+         <change when="2026-05-13" who="Davide Pironi">made some tweaks</change>
+         <change when="2026-05-20" who="Davide Pironi">added credits</change>
       </revisionDesc>
    </teiHeader>
    <!--  *************************************  <facsimile>  *********************************  -->
@@ -145,13 +151,13 @@
                   <persName>
                      <name key="Levitha Λέουιθα">Λέουιθα</name>
                   </persName> χρηστή ἄλυ
-               <lb n="2" break="no"/>πε χέρε. Ἔτους ΗΥ.</ab>
+               <lb n="2" break="no"/>πε χέρε. Ἔτους <num type="cardinal" value="408">ΗΥ</num>.</ab>
          </div>
          <div type="translation">
             <p>Levitha, worthy, free from pain, farewell. Year 408</p>
          </div>
          <div type="commentary">
-            <p>Basis of verification: photo.</p>
+            <p>Basis of verification: photo. Decoration details provided by Erica Rose Hampton.</p>
          </div>
          <div type="bibliography">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="http://library.brown.edu/usep_data/resources/titles.xml">

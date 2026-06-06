@@ -33,7 +33,7 @@
                   <!-- arc, grc, he, lat, und (unknown),  zxx (non-linguistic content) -->
                   <msItem class="#label">
                             <!-- short summary of the content of an inscription -->
-                     <p>inscribed sling bullet</p>
+                     <p>sling bullet</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -43,7 +43,7 @@
                   <objectDesc ana="#instrumentum.other">
                      <supportDesc ana="#metal.lead">
                         <support>
-                           <p> </p>
+                           <p> lead bullet</p>
                            <dimensions type="surface" unit="cm">
                               <height>4.85</height>
                               <width>1.72</width>
@@ -87,12 +87,13 @@
             <!--  *************************************  <listBibl>  *********************************  -->
             <listBibl>
                <bibl>
-              &gt;
-                    </bibl>
-               <bibl>
                   <ref type="external"
-                     target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US"
+                     target="https://maacollections.missouri.edu/ArgusNET/Portal.aspx?lang=en-US&amp;g_AAEM=70.141&amp;d=d"
                      >MAA Web Entry</ref>
+               </bibl>
+               <bibl>
+                  <ptr type="rest-of-bibl" target="#Epigraphica_67_Tuck_b"/>
+                  <biblScope unit="item"></biblScope>
                </bibl>
             </listBibl>
          </sourceDesc>
