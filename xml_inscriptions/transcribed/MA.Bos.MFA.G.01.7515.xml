@@ -4,7 +4,7 @@
       <fileDesc>
          <titleStmt>
             <title>MA.Bos.MFA.G.01.7515</title>
-            <author>Author</author>
+            <author>Davide Pironi</author>
             <respStmt>
                <resp>Translation</resp>
                <name>Translator</name>
@@ -30,7 +30,7 @@
                <msContents>
                   <textLang mainLang="grc" otherLangs=""/>
                   <msItem class="#text_unknown">
-                     <p>text on temple key in the shape of a bearded snake </p>
+                     <p>text on temple key in the shape of a bearded snake</p>
                   </msItem>
                </msContents>
                <!--  *************************************  <physDesc>  ********************************* -->
@@ -39,7 +39,7 @@
                   <objectDesc ana="#fragment #object_other">
                      <supportDesc ana="#metal.bronze">
                         <support>
-                           <p> bronze temple key </p>
+                           <p>bronze temple key</p>
                            <dimensions type="surface" unit="cm">
                               <height/>
                               <width>39.6 </width>
@@ -154,7 +154,7 @@
  
          </div>
          <div type="translation">
-            <p>Of (the temple of) Artemis at Lousoi.</p>
+            <p>(Of the temple) Of Artemis at Lousoi.</p>
          </div>
          <div type="commentary">
             <p/>
