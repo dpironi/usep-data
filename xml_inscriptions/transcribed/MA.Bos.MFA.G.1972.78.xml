@@ -82,7 +82,8 @@
                   </summary>
                   
                   <origin>
-                     <date evidence="#unspecified" notBefore="-0341" notAfter="-0339">340 BCE</date>
+                     <date evidence="#unspecified" notBefore="-0341" notAfter="-0339">about 340
+                        BCE</date>
                      <placeName ref="europe.greece.athens">Athens</placeName>
                   </origin>
                   <provenance type="transferred" subtype="sold">
